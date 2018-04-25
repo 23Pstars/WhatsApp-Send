@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+
+    "name": "WhatsApp Send",
+    "description": "Chrome extension to send WhatsApp message to unsaved contact.",
+    "version": "1.0",
+
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
+
+    "browser_action": {
+        "default_icon": "logo.png",
+        "default_popup": "index.html"
+    }
+}
